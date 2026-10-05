@@ -1,0 +1,12 @@
+.env
+*.pem
+
+__pycache__/
+.venv/
+
+
+*.tfstate
+*.tfstate.*
+.terraform/
+
+
